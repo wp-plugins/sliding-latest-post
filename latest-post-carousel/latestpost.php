@@ -6,7 +6,8 @@ Plugin Name: Latest Post Carousel Slider
 
 Plugin URI: http://www.dasinfomedia.com
 
-Description: Latest post will be shown with carousel slidng effect. You can choose to show excerpt or full content of latest 10 posts.
+Description: A plugin for wordpress which shows latest 10 posts with carousel sliding effect which is SEO friendly. User can set the height, width, and the time duration of the slide show. Post will be shown with the link nad by clicking on it, user can view particular post.
+
 
 Author: dasinfomedia
 
