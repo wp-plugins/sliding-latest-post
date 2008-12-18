@@ -1,4 +1,4 @@
-=== Latest Post ===
+=== Sliding Post - Slides latest posts with Carousel effect ===
 =========================================================================
 Contributors: Dasinfomedia	
 Tags: mootools, fontpage slider,carousel slider,sliding content,showcase latest post,latest post,pramote latest post on front page.
@@ -20,11 +20,17 @@ A plugin for wordpress which shows latest 10 posts with carousel sliding effect 
 
 
 == Installation ==
+==========================================================================
 
-1. Unzip and copy the "latest-post-carousel" folder inside your "wp-content/plugins" folder for Wordpress versions below 2.6.2. for Wordpress version 2.7. click on the plugin and then add new plugin and then browse and upload the zip file u have downloaded.
+1. Unzip and copy the "latest-post-carousel" folder inside your "wp-content/plugins" folder for Wordpress versions below 2.6.2. For Wordpress version 2.7 , click on the plugin and then add new plugin and then browse and upload the zip file you have downloaded.
 2. Go to your administration interface for plugins and activate "Latest Post Carousel".
 3. In the settings go to "Latest Post Carousel" and set the parameter of the latest post slider. 
 4. If you are using the dynamic sidebar (widgets) you can now drag and drop Latest Post in the widgets administration. 
+
+
+==Donate==
+=========================================================================
+if you like this plugin then donate to dpatelmatri@gmail.com
 
 
 == Customization Tips ==
@@ -33,13 +39,10 @@ A plugin for wordpress which shows latest 10 posts with carousel sliding effect 
 
 == Frequently Asked Questions ==
 ==========================================================================
-Is this plugin Free?
+= Is this plugin Free? =
 This plugin is free to use under GPL.
 
 == Screenshots ==
 ========================================================================
 
 
-==Donate==
-=========================================================================
-dpatelmatri@gmail.com
