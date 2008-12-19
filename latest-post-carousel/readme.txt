@@ -1,4 +1,4 @@
-== Sliding Post - Slides latest posts with Carousel effect ==
+=== Sliding Post - Slides latest posts with Carousel effect ===
 	
 Contributors: Dasinfomedia
 Donate link: http://blog.dasinfomedia.com/?p=14	
