@@ -2,7 +2,7 @@
 	
 Contributors: Dasinfomedia
 Donate link: http://blog.dasinfomedia.com/?p=14	
-Tags: mootools, frontpage slider,carousel slider,sliding content,showcase latest post,latest post,promote latest post on front page.
+Tags: mootools, siliding post, frontpage slider,carousel slider,sliding content,showcase latest post,latest post,promote latest post on front page.
 Requires at least: 2.6
 Tested up to: 2.7
 Stable tag: 1.0
